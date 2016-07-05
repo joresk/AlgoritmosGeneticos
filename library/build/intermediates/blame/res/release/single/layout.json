@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Librerias\\Maps-Utils\\library\\build\\intermediates\\res\\merged\\release\\layout\\amu_info_window.xml",
+        "source": "E:\\Librerias\\Maps-Utils\\library\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "E:\\Librerias\\Maps-Utils\\library\\build\\intermediates\\res\\merged\\release\\layout\\amu_webview.xml",
+        "source": "E:\\Librerias\\Maps-Utils\\library\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "E:\\Librerias\\Maps-Utils\\library\\build\\intermediates\\res\\merged\\release\\layout\\amu_text_bubble.xml",
+        "source": "E:\\Librerias\\Maps-Utils\\library\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "E:\\App Violencia Practica\\GoogleMapDirectionSimple-master\\library\\build\\intermediates\\res\\merged\\release\\layout\\amu_webview.xml",
+        "source": "E:\\App Violencia Practica\\GoogleMapDirectionSimple-master\\library\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "E:\\App Violencia Practica\\GoogleMapDirectionSimple-master\\library\\build\\intermediates\\res\\merged\\release\\layout\\amu_info_window.xml",
+        "source": "E:\\App Violencia Practica\\GoogleMapDirectionSimple-master\\library\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "E:\\App Violencia Practica\\GoogleMapDirectionSimple-master\\library\\build\\intermediates\\res\\merged\\release\\layout\\amu_text_bubble.xml",
+        "source": "E:\\App Violencia Practica\\GoogleMapDirectionSimple-master\\library\\res\\layout\\amu_text_bubble.xml"
+    }
+]
